@@ -114,5 +114,4 @@ public class DangKyDayDAO extends AbstractDAO<DangKyDay>{
     }
     return dsdkd;
   }
-  
 }
